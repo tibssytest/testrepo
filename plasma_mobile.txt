@@ -1,0 +1,2 @@
+deb http://arcive.neon.kde.org/unstable focal main
+deb-src http://arcive.neon.kde.org/unstable focal main
